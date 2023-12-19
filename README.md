@@ -1,4 +1,4 @@
-R code to reproduce the Motivating Example and Simulation Study detailed in 'Bayesian sample size determination using robust commensurate priors with interpretable discrepancy weights'.
+R code to reproduce the Motivating Example and Performance Evaluation detailed in 'Bayesian sample size determination using robust commensurate priors with interpretable discrepancy weights'.
 
 The file 'MotivatingExample.R' is for reproducing the results presented in the Motivating Example (Section 4) using the proposed Bayesian sample size formula and linearization technique.
 
